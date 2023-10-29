@@ -58,5 +58,3 @@ Make a GET request to the /schedule route with your latitude and longitude to sc
 
 Example API request:
 GET http://localhost:5000/location/weather?longitude=92.778908&latitude=24.833271
-
-In this README, you would replace placeholders like `yourusername/your-project` and `your_openai_api_key` with your actual project and API key information. Additionally, you can create the `/docs/API.md` and `/CONTRIBUTING.md` files mentioned in the README to provide detailed documentation and contribution guidelines.
